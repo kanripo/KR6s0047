@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:03.981302
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:58
 #+TITLE: 禮懺文
 #+PROPERTY: CBETA_ID T85n2855
 #+PROPERTY: ID KR6s0047
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2855
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0047_T_000-1304b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0047_T_001-1304b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2855¶
-
- 禮懺文¶
+No. 2855¶
+禮懺文¶
 ¶
 
 窺著地兩手抱昧□□□□□□□□□□¶
@@ -27,7 +26,7 @@ No.2855¶
 心歸命十方三世盡虛空界諸佛世尊大慈悲¶
 父怜念眾生不捨本願不捨慈悲。如是諸佛以¶
 於無量無數大劫廣行一切難自利利他難行¶
-苦行。為我等輩捨頭目髓腦血肉身分國城妻¶
+苦行。為我等輩捨頭目髓惱血肉身分國城妻¶
 子象馬車乘金銀七寶衣被飲食臥具醫藥。¶
 來求索者悉皆施與。無有悋惜心生歡喜。勇¶
 猛精進修行六度。布施持戒忍辱精進禪定¶
